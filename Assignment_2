@@ -19,45 +19,25 @@ elif choice == '/':
 else:
     print('Enter a valid operator, please')
     
->>    Please select the type of operation you want to perform:     
-+ for addition
-- for subtraction
-* for multiplication
-/ for division
-+
+
 Enter your first number12
 Enter your second number: 34
 12 + 34 = 
 46
 
-Please select the type of operation you want to perform:     
-+ for addition
-- for subtraction
-* for multiplication
-/ for division
--
+
 Enter your first number12
 Enter your second number: 34
 12 + 30 = 
 2
 
-Please select the type of operation you want to perform:     
-+ for addition
-- for subtraction
-* for multiplication
-/ for division
-+
+
 Enter your first number12
 Enter your second number: 34
 12 * 4 = 
 48
 
-Please select the type of operation you want to perform:     
-+ for addition
-- for subtraction
-* for multiplication
-/ for division
-/
+
 Enter your first number12
 Enter your second number: 34
 12 / 6 = 
